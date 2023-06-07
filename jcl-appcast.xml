@@ -10,8 +10,8 @@
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         <item>
-            <title>Version 1.0.9</title>
-            <description>Fix results sort.</description>
+            <title>Version 1.0.10</title>
+            <description>Finance, points, push notifications, bug fixes  and UI improvements.</description>
            
             <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.jcl" sparkle:version="1.0.9" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
