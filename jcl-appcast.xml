@@ -3,17 +3,17 @@
     <channel>
         <title>Jcl App - Appcast</title>
         <item>
-            <title>Version 1.0.11</title>
+            <title>Version 1.0.12</title>
             <description>Fix videos and disappearing images, more detailed points and master-list.</description>
             
-            <enclosure url="https://apps.apple.com/us/app/jcl/id1660453845" sparkle:version="1.0.11" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/jcl/id1660453845" sparkle:version="1.0.12" sparkle:os="iOS" />
            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         <item>
-            <title>Version 1.0.11</title>
+            <title>Version 1.0.12</title>
             <description>Fix videos and disappearing images, more detailed points and master-list.</description>
            
-            <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.jcl" sparkle:version="1.0.11" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.jcl" sparkle:version="1.0.12" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         
