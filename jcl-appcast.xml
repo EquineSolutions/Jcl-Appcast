@@ -3,17 +3,17 @@
     <channel>
         <title>Jcl App - Appcast</title>
         <item>
-            <title>Version 1.0.15</title>
-            <description>Bug fix and UI improvements.</description>
+            <title>Version 1.0.16</title>
+            <description>Team renewal.</description>
             
-            <enclosure url="https://apps.apple.com/us/app/jcl/id1660453845" sparkle:version="1.0.15" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/jcl/id1660453845" sparkle:version="1.0.16" sparkle:os="iOS" />
            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         <item>
-            <title>Version 1.0.15</title>
-            <description>Bug fix and UI improvements.</description>
+            <title>Version 1.0.16</title>
+            <description>Team renewal.</description>
            
-            <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.jcl" sparkle:version="1.0.15" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.jcl" sparkle:version="1.0.16" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         
