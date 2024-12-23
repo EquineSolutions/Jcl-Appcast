@@ -10,10 +10,10 @@
            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         <item>
-            <title>Version 0.0.3</title>
+            <title>Version 0.0.4</title>
             <description>UI improvements & bug fixes</description>
            
-            <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.es_shows" sparkle:version="0.0.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.es_shows" sparkle:version="0.0.4" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
         
