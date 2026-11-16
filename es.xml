@@ -7,6 +7,7 @@
             <description>ES Shows 2.0 introduces a refreshed experience for shows, schedules, start lists and live results.</description>
             
             <enclosure url="https://apps.apple.com/us/app/es-shows/id6738386846" sparkle:version="2.0.0" sparkle:os="iOS" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
         </item>
         <item>
             <title>Version 0.0.5</title>
