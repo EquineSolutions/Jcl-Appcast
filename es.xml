@@ -3,15 +3,14 @@
     <channel>
         <title>Jcl App - Appcast</title>
         <item>
-            <title>Version 0.0.6</title>
-            <description>UI improvements & bug fixes</description>
+            <title>Version 2.0.0</title>
+            <description>ES Shows 2.0 introduces a refreshed experience for shows, schedules, start lists and live results.</description>
             
-            <enclosure url="https://apps.apple.com/us/app/es-shows/id6738386846" sparkle:version="0.0.6" sparkle:os="iOS" />
-           <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+            <enclosure url="https://apps.apple.com/us/app/es-shows/id6738386846" sparkle:version="2.0.0" sparkle:os="iOS" />
         </item>
         <item>
             <title>Version 0.0.5</title>
-            <description>UI improvements & bug fixes</description>
+            <description>UI improvements &amp; bug fixes</description>
            
             <enclosure url="https://play.google.com/store/apps/details?id=co.equinesolutions.es_shows" sparkle:version="0.0.5" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
